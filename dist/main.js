@@ -1,1 +1,0 @@
-(()=>{let e=document.querySelector("div#content"),t=document.createElement("h1");t.textContent="The Delight Restaurant",e.appendChild(t);let n=document.createElement("h2");n.textContent="Our Timings",e.appendChild(n);let d=document.createElement("h2");d.textContent="Our Dishes",e.appendChild(d)})();
